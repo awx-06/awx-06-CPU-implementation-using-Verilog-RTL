@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Apr 10 09:44:59 2026
+[*]
+[dumpfile] "/home/ali/cpu/dump.vcd"
+[dumpfile_mtime] "Fri Apr 10 09:41:55 2026"
+[dumpfile_size] 99505666
+[savefile] "/home/ali/cpu/signals.gtkw"
+[timestart] 1731000
+[size] 1479 785
+[pos] -1 -1
+*-18.384129 2555000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.cpu.
+[sst_width] 278
+[signals_width] 216
+[sst_expanded] 1
+[sst_vpaned_height] 222
+@28
+cpu_tb.clk
+@23
+cpu_tb.cpu.ir[15:0]
+@22
+cpu_tb.mar[11:0]
+cpu_tb.memrdata[15:0]
+@28
+cpu_tb.memwr
+@22
+cpu_tb.cpu.ac[15:0]
+cpu_tb.cpu.alu.aluout[15:0]
+cpu_tb.cpu.alu.mbr[15:0]
+@28
+cpu_tb.cpu.ld_mbr2ac
+cpu_tb.cpu.ld_mdata2mbr
+cpu_tb.rst
+cpu_tb.rst1
+cpu_tb.sys_rst
+cpu_tb.cpu.ld_ac2mbr
+cpu_tb.cpu.ld_ir2mar
+cpu_tb.cpu.ld_mbr2ac
+cpu_tb.cpu.ld_mdata2mbr
+cpu_tb.cpu.ld_pc2mar
+[pattern_trace] 1
+[pattern_trace] 0

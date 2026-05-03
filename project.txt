@@ -1,0 +1,28 @@
+Part 1 [10pts]
+==============
+
+1.1 [5pts] Translate C code "test.c" File into MARIE assembly. File 
+    test.asm contains the basic MARIE assembly code, you need to fill 
+    up missing instructions or operands (look for '...')
+
+1.2 [2pts] Convert the MARIE asm into hex code that can be loaded into 
+    memory model for simulation. File test.hex contains a sample format
+    you need to replace with the actual MARIE hex code.
+
+1.3 [3pts] Run simulation using the cpu testbench provided to make sure 
+    test runs as expected. Open waveform dump and take snap shot of the
+    main signals that shows execution flow and data read/write to mem.
+
+
+Part 2 [10pts]
+==============
+Make a short recorded presentation (less than 10min) of what you learned
+in this project. Presentation should show flipping thru slides and 
+snapshots of waveform showing important signals. 
+
+Key points to present are:
+  1. MARIE architecture highlighs (Use main slides in provided Ch4 ppt)
+  2. Discuss issues you had during the test development and simulation
+  3. Summarize your learning experience in this project
+
+**Note: Only Slides and audio needs to be recorded

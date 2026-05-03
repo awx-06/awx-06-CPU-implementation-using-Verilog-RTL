@@ -1,0 +1,20 @@
+Study the Marie architecture as explained in T103_Chapter4.ppt document 
+provided in the project folder.
+
+Below are the main steps needed to accomplish this project. Additional 
+information can be found on DeepSeek or other AI tools.
+
+Main steps:
+ 1. Install Linux on Virtual Box, or VMWare, or ...
+ 2. Download icarus verilog simulator
+ 3. Download gtkwave waveform viewer 
+ 4. On the command prompt of a Linux/Unix/Mac Shell, Compile and 
+    Run provided sample test as follows:
+
+    %iverilog -f cpu.f	// Compile code
+    %vvp a.out		// Run Simulation
+    %gtkwave dump.vcd & // View waveform signals
+     
+ 5. Once everything is setup you can implement the project as explained
+    in the project.txt file included in the project folder.
+
